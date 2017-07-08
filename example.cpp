@@ -23,7 +23,6 @@ int main()
 
 	while (true)
 	{
-		//
 		frame = imread("C:\\path\\to\\your\\image.png", CV_LOAD_IMAGE_GRAYSCALE);
 		performSUACE(frame, suaceResult, a, (b + 1) / 8.0); //perform SUACE with the parameters
 		imshow("SUACE", suaceResult);
