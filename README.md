@@ -18,5 +18,5 @@ An example code for using suace can be found in example.cpp.
 ## More Details:
 More details about SUACE algorithm can be found in the following documents which have been submitted to ICIIS2017. 
 
-1.	R. Bandara and M. P. Giragama, “A Retinal Image Enhancement Technique for Blood Vessel Segmentation Algorithm,” submitted to 2017 IEEE 12th International Conference on Industrial and Information Systems (ICIIS) (ICIIS’2017), Peradeniya, Sri Lanka, 2017.
-2.	R. Bandara, “Super-Efficient Spatially Adaptive Contrast Enhancement Algorithm for Superficial Vein Imaging,” submitted to 2017 IEEE 12th International Conference on Industrial and Information Systems (ICIIS) (ICIIS’2017), Peradeniya, Sri Lanka, 2017.
+1.	R. Bandara and M. P. Giragama, “A Retinal Image Enhancement Technique for Blood Vessel Segmentation Algorithm,” accepted to 2017 IEEE 12th International Conference on Industrial and Information Systems (ICIIS) (ICIIS’2017), Peradeniya, Sri Lanka, 2017.
+2.	R. Bandara, H. Kulathilake and M. P. Giragama, “Super-Efficient Spatially Adaptive Contrast Enhancement Algorithm for Superficial Vein Imaging,” accepted to 2017 IEEE 12th International Conference on Industrial and Information Systems (ICIIS) (ICIIS’2017), Peradeniya, Sri Lanka, 2017.
