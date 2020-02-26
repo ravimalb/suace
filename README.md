@@ -3,7 +3,7 @@ Speeded Up Adaptive Contrast Enhancement (SUACE); an OpenCV based implementation
 
 SUACE is an image contrast enhancement algorithm which has been originally invented for enhancing infrared vein images. But SUACE can be used in any application which requires real-time contrast enhancement.
 
-![A Retinal Fundus Image Enhanced by using SUACE](http://gdurl.com/ZXeA "A Retinal Fundus Image Enhanced by using SUACE")
+![A Retinal Fundus Image Enhanced by using SUACE](https://1.bp.blogspot.com/-2aBnZGTrQxw/XlW2EAcjsuI/AAAAAAAACbc/mkZyW6Rk9esxH_SoCCguM_RhTEs2AGaAQCLcBGAsYHQ/s1600/suace.png)
 *image from: DRIVE dataset [http://www.isi.uu.nl/Research/Databases/DRIVE/]
 
 ## Features:
